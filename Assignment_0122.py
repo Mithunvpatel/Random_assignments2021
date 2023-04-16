@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Assignment: TouchBistro
 # Author: Mithun Patel
 # Date: 05/01/2023
 # 
